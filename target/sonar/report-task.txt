@@ -1,0 +1,7 @@
+organization=sureshkmahar
+projectKey=sureshkmahar_Spring-Boot
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.3457
+dashboardUrl=https://sonarcloud.io/dashboard?id=sureshkmahar_Spring-Boot
+ceTaskId=AW8PWK3nhIo7ufZE9JMI
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW8PWK3nhIo7ufZE9JMI
