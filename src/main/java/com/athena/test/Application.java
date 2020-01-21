@@ -19,6 +19,7 @@ public class Application {
         System.out.println("MAP size: " + stringContainer.size());
  
         // Explicit GC!
+     System.out.println("Garbage collection start..")
         System.gc();
  
         // Remove 2 M out of 3 M
